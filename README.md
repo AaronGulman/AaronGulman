@@ -1,4 +1,4 @@
-# Hi there, I'm Gurban(But can call me Aaron) 👋 
+# Hi there, I'm Gurban(But you can call me Aaron) 👋 
 ## I'm a **Software Developer** who is obssessed with computers!
 
 - 🌱 I have been spending the past 6 months working and studying 5-9 hours all sorts of programming tools without missing a single day.
