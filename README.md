@@ -1,7 +1,7 @@
 # Hi there, I'm Gurban(But you can call me Aaron) 👋 
-## I'm a **Software Developer** who is obssessed with computers!
+<h1>I'm a **Software Developer** who is obssessed with everything IT!</h1>
 
-- 📚 For the past 6 months, I've been putting in 5-9 hours every day, consistently working and studying various programming tools without missing a single day
+- 📚 For over 6 months now, I've been putting in 5-9 hours every day, consistently working and studying various programming tools without missing a single day
 - ⚠️ I’m looking for a mentor and a permanent job
 - 🗒️ 2024 Goals: Sharpen my React and C#(particularly Blazer and Unity) skills 
 - ⚡ Fun facts about me:
