@@ -1,5 +1,5 @@
 # Hi there, I'm Gurban(But you can call me Aaron) 👋 
-<h1>I'm a **Software Developer** who is obssessed with everything IT!</h1>
+## I'm a **Software Developer** who is obssessed with everything IT! ##
 
 - 📚 For over 6 months now, I've been putting in 5-9 hours every day, consistently working and studying various programming tools without missing a single day
 - ⚠️ I’m looking for a mentor and a permanent job
