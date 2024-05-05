@@ -3,7 +3,8 @@
 
 - 📚 For over 6 months now, I've been putting in 5-9 hours every day, consistently working and studying various programming tools without missing a single day
 - ⚠️ I’m looking for a mentor and a permanent job
-- 🗒️ 2024 Goals: Sharpen my React and C#(particularly Blazer and Unity) skills 
+- 🗒️ 2024-2025 Goals: Sharpen my React, C#(particularly Blazer and Unity),PostgreSQL, and Spring , JavaFX skills
+- ⚠️ Even though I am able to use various different programming tools , I am most confident in Web dev working the following stacks: MERN,PERN.
 - ⚡ Fun facts about me:
 1️⃣  I love TV shows and movies
 2️⃣  I was in a band as a teenager 
@@ -12,9 +13,12 @@
 5️⃣  There's a task and my team is counting on me ? You bet I will always deliver ! 
 6️⃣  I love challanges and overcoming them
 
+<div>
+‼️I believe a developer can easily pick up any programming tool and use it but to master them it takes a lot of effort, time and dedication‼️
+</div>
 
 
-### Languages and Tools:
+### Languages and Other Tools I use:
 
 <div>
 <img  title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -22,19 +26,28 @@
 <img  title="Netlify" alt="Netlify" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" style="padding-right:10px;" />
 <img  title="Firebase" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" style="padding-right:10px;" /> 
 <img  title="Heroku" alt="Heroku" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" style="padding-right:10px;" /> 
-
 </div>
+
 <div>
 <img  title="HTML5" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img  title="CSS3" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img  title="JavaScript" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img  title="Tailwind" alt="Tailwind" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" />
-<img  title="Sass" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img  title="PHP" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
 <img  title="Csharp" alt="Csharp" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 <img  title="Python" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img  title="React" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img  title="Java" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
 </div>
+
+<div>
+<img  title="React" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img title="Electron" alt="Electron" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" style="padding-right:10px;" />
+<img  title="Tailwind" alt="Tailwind" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" />
+<img  title="Sass" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+<img title="Next.js" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
+<img title="Axios" alt="Axios" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" style="padding-right:10px;" />
+  
+</div>
+
 <div>
 <img title="MongoDB" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img title="MySQL" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
@@ -47,10 +60,18 @@
 <img title="Webpack" alt="Webpack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" style="padding-right:10px;" />
 
 </div>
+
 <div>
 <img title="Node.js" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img title="Nodemon" alt="Nodemon" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodemon/nodemon-original.svg" style="padding-right:10px;" />
 <img title="Express.js" alt="Express.js" width="26px" class="express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
-<img title="Next.js" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
+</div>
+
+--**And I have some experience with:**
+<div>
+<img  title="C" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
+<img  title="C++" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
+<img  title="PostgreSQL" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 
 </div>
+
