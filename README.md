@@ -1,21 +1,19 @@
 # Hi there, I'm Gurban(But you can call me Aaron) 👋 
 ## I'm a **Software Developer** who is obssessed with everything IT! ##
 
-- 📚 For over 6 months now, I've been putting in 5-9 hours every day, consistently working and studying various programming tools without missing a single day
-- ⚠️ I’m looking for a mentor and a permanent job
-- 🗒️ 2024-2025 Goals: Sharpen my React, C#(particularly Blazer and Unity),PostgreSQL, and Spring , JavaFX skills
-- ⚠️ Even though I am able to use various different programming tools , I am most confident in Web dev working the following stacks: MERN,PERN.
+- 📚 For over 6 months now, I've been putting in 5-9 hours every day, consistently working and studying various programming tools without missing a single day.
+- ⚠️ I’m looking for a mentor and a permanent job.
+- 🗒️ 2024-2025 Goals: Sharpen my React, C# (particularly Blazor and Unity), PostgreSQL, and Spring, JavaFX skills.
+- ⚠️ Even though I am able to use various different programming tools, I am most confident in web development working with the following stacks: MERN, PERN.
 - ⚡ Fun facts about me:
-1️⃣  I love TV shows and movies
-2️⃣  I was in a band as a teenager 
-3️⃣  I speak / understand over 6 languages
-4️⃣  I am a life-long learner who is always curious about everything
-5️⃣  There's a task and my team is counting on me ? You bet I will always deliver ! 
-6️⃣  I love challanges and overcoming them
-
-<div>
-‼️I believe a developer can easily pick up any programming tool and use it but to master them it takes a lot of effort, time and dedication‼️
-</div>
+  <div>
+  1️⃣ I love TV shows and movies. <br/>
+  2️⃣ I was in a band as a teenager.  <br/>
+  3️⃣ I speak/understand over 6 languages.  <br/>
+  4️⃣ I am a lifelong learner who is always curious about everything.  <br/>
+  5️⃣ There's a task and my team is counting on me? You bet I will always deliver!  <br/>
+  6️⃣ I love challenges and overcoming them.
+  </div>
 
 
 ### Languages and Other Tools I use:
