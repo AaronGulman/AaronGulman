@@ -52,6 +52,7 @@
 </div>
 <div>
 <img title="Git" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img title="Wordpress" alt="Wordpress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" style="padding-right:10px;" />
 <img title="GitHub" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img title="Vite" alt="Vite" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" style="padding-right:10px;" />
 <img title="Insomnia" alt="Insomnia" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" style="padding-right:10px;" />
