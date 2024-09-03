@@ -3,7 +3,7 @@
 
 - 📚 Over a year ago, I challenged myself to become more consistent and improve as a software engineer. Since then, I’ve committed to studying and working with various programming tools every daily, and I’m proud to say I’ve never missed a single day.
 - ⚠️ I’m looking for a mentor and a permanent job.
-- 🗒️ 2024-2025 Goals: Sharpen my React, C# (particularly Blazor and Unity), PostgreSQL, and Spring, JavaFX skills.
+- 🗒️ 2024-2025 Goals: Improve my C# (particularly Blazor and Unity), Flutter, C amd C++ knowledge.
 - ⚠️ Even though I am able to use various different programming tools, I am most confident in web development working with the following stacks: MERN, PERN.
 - ⚡ Fun facts about me:
   <div>
@@ -51,6 +51,7 @@
 <div>
 <img title="MongoDB" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img title="MySQL" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img  title="PostgreSQL" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 </div>
 <div>
 <img title="Git" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
@@ -72,7 +73,6 @@
 <div>
 <img  title="C" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
 <img  title="C++" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-<img  title="PostgreSQL" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 
 </div>
 
