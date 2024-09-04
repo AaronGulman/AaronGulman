@@ -1,3 +1,5 @@
+![]((https://komarev.com/ghpvc/?username=AaronGulman&base=1000))
+
 # Hi there, I'm Gurban(But you can call me Aaron) 👋 
 ## I'm a **Software Developer** who is obssessed with everything IT! ##
 
@@ -76,4 +78,9 @@
 
 </div>
 
+
+## Milestones
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=AaronGulman&theme=matrix)](https://github.com/AaronGulman/github-profile-trophy)
+
+
