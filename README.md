@@ -81,6 +81,6 @@
 
 ## Milestones
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AaronGulman&theme=matrix)](https://github.com/AaronGulman/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AaronGulman&theme=matrix&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/AaronGulman/github-profile-trophy)
 
 
