@@ -76,3 +76,4 @@
 
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AaronGulman&theme=matrix)](https://github.com/AaronGulman/github-profile-trophy)
