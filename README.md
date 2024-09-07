@@ -26,6 +26,7 @@
 <img  title="Netlify" alt="Netlify" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" style="padding-right:10px;" />
 <img  title="Firebase" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" style="padding-right:10px;" /> 
 <img  title="Heroku" alt="Heroku" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" style="padding-right:10px;" /> 
+<img  title="Linux" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" /> 
 </div>
 
 <div>
