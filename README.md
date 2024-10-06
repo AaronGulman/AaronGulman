@@ -3,7 +3,7 @@
 # Hi there, I'm Gurban(But you can call me Aaron) 👋 
 ## I'm a **Software Developer** who is obssessed with everything IT! ##
 
-- 📚 Over a year ago, I challenged myself to become more consistent and improve as a software engineer. Since then, I’ve committed to studying and working with various programming tools every daily, and I’m proud to say I’ve never missed a single day.
+- 📚 Over a year ago, I challenged myself to become more consistent and improve as a software engineer. Since then, I've developed greater consistency by committing to studying and working with various programming tools daily. I'm proud to say I haven’t missed a single day.
 - ⚠️ I’m looking for a mentor and a permanent job.
 - 🗒️ 2024-2025 Goals: Improve my C# (particularly Blazor and Unity), Flutter, C amd C++ knowledge.
 - ⚠️ Even though I am able to use various different programming tools, I am most confident in web development working with the following stacks: MERN, PERN.
