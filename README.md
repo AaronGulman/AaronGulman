@@ -1,7 +1,7 @@
 ![]((https://komarev.com/ghpvc/?username=AaronGulman&base=1000))
 
 # Hi there, I'm Gurban(But you can call me Aaron) 👋 
-## I'm a **Software Developer** who is obssessed with everything IT! ##
+## I'm a **Software Developer** who is obssessed with all things IT! ##
 
 - 📚 Over a year ago, I challenged myself to become more consistent and improve as a software engineer. Since then, I've developed greater consistency by committing to studying and working with various programming tools daily. I'm proud to say I haven’t missed a single day.
 - ⚠️ I’m looking for a mentor and a permanent job.
