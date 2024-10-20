@@ -4,7 +4,6 @@
 ## I'm a **Software Developer** who is obssessed with all things IT! ##
 
 - 📚 Over a year ago, I challenged myself to become more consistent and improve as a software engineer. Since then, I've developed greater consistency by committing to studying and working with various programming tools daily. I'm proud to say I haven’t missed a single day.
-- ⚠️ I’m looking for a mentor and a permanent job.
 - 🗒️ 2024-2025 Goals: Improve my C# (particularly Blazor and Unity), Flutter, C and C++ knowledge.
 - ⚠️ Even though I am able to use various different programming tools, I am most confident in web development working with the following stacks: MERN, PERN.
 - ⚡ Fun facts about me:
