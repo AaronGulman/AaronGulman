@@ -5,13 +5,13 @@
 
 - 📚 Always coding , always improving , always working 
 - 🗒️ 2025-2026 Goals: Improve my C# (particularly Blazor and Unity),Robotics engineer, C and C++ knowledge
-- ⚠️ While I can use a variety of programming tools, I'm most confident in web development
+- ⚠️ I have experience with various programming tools, but my strongest skills are in web development
 - ⚡ Fun facts about me:
   <div>
-  1️⃣ I love TV shows and movies. <br/>
-  2️⃣ I was in a band as a teenager.  <br/>
+  1️⃣ I love watching TV shows and movies. <br/>
+  2️⃣ I was in a rock band as a teenager.  <br/>
   3️⃣ I speak/understand over 6 languages.  <br/>
-  4️⃣ I am a lifelong learner who is always curious about everything.  <br/>
+  4️⃣ I amm always hungry for knowledge and never stop learning.  <br/>
   5️⃣ There's a task and my team is counting on me? You bet I will always deliver!  <br/>
   6️⃣ I love challenges and overcoming them.
   </div>
@@ -71,7 +71,7 @@
 <img title="Express.js" alt="Express.js" width="26px" class="express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
 </div>
 
---**And I have some experience with:**
+--**And I also have some experience with:**
 <div>
 <img  title="C" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
 <img  title="C++" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
