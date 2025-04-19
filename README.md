@@ -11,7 +11,7 @@
   1️⃣ I love watching TV shows and movies. <br/>
   2️⃣ I was in a rock band as a teenager.  <br/>
   3️⃣ I speak/understand over 6 languages.  <br/>
-  4️⃣ I amm always hungry for knowledge and never stop learning.  <br/>
+  4️⃣ I am always hungry for knowledge and never stop learning.  <br/>
   5️⃣ There's a task and my team is counting on me? You bet I will always deliver!  <br/>
   6️⃣ I love challenges and overcoming them.
   </div>
