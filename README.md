@@ -4,7 +4,7 @@
 **I'm a **Software Developer** who is obssessed with all things IT!**
 
 - 📚 Always coding , always improving , always working 
-- 🗒️ 2025-2026 Goals: Improve my C# (particularly Blazor and Unity),Robotics engineer, C and C++ knowledge
+- 🗒️ 2025-2026 Goals:  Sharpening my skills in Robotics engineering, C, C++, and C#  (particularly Blazor and Unity)
 - ⚠️ I have experience with various programming tools, but my strongest skills are in web development
 - ⚡ Fun facts about me:
   <div>
