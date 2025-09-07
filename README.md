@@ -90,6 +90,7 @@
 <img  title="Java" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
 <img  title="Dart" alt="Dart" width="26px" src="https://skillicons.dev/icons?i=dart" style="padding-right:10px;" />
 <img  title="Go" alt="Go" width="26px" src="https://skillicons.dev/icons?i=go" style="padding-right:10px;" />
+<img  title="Rust" alt="Rust" width="26px" src="https://skillicons.dev/icons?i=rust" style="padding-right:10px;" />
 </div>
 
 <div>
@@ -101,7 +102,7 @@
 <div>
 <img  title="C" alt="C" width="26px" src="https://skillicons.dev/icons?i=c" style="padding-right:10px;" />
 <img  title="C++" alt="C++" width="26px" src="https://skillicons.dev/icons?i=cpp" style="padding-right:10px;" />
-<img  title="Rust" alt="Rust" width="26px" src="https://skillicons.dev/icons?i=rust" style="padding-right:10px;" />
+<img  title="Zig" alt="Zig" width="26px" src="https://skillicons.dev/icons?i=zig" style="padding-right:10px;" />
 
 </div>
 
